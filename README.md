@@ -20,10 +20,10 @@ npm install nats ts-node-dev typescript @types/node
 npx tsc --init
 ```
 
-#### Set verbatimModuleSyntax to false tsconfig.json
-#### Create src/publisher.ts
-#### Create src/listener.ts
-#### Add scripts package.json
+#### [Set verbatimModuleSyntax to false tsconfig.json](https://github.com/Kashoid23/microservices-nats/commit/f54041849cded2879a7525a8b9e18fbddbb8f7a2#diff-b55cdbef4907b7045f32cc5360d48d262cca5f94062e353089f189f4460039e0)
+#### [Create src/publisher.ts](https://github.com/Kashoid23/microservices-nats/commit/f54041849cded2879a7525a8b9e18fbddbb8f7a2#diff-3b925c39878d5e5c917f2bd045a7e6ca79a505398d3412eee615bb53a8b58fe9)
+#### [Create src/listener.ts](https://github.com/Kashoid23/microservices-nats/commit/f54041849cded2879a7525a8b9e18fbddbb8f7a2#diff-0a9945c399ef4b66209b330f33399ac079477f017039f62d33e7d8296163469d)
+#### [Add scripts package.json](https://github.com/Kashoid23/microservices-nats/commit/f54041849cded2879a7525a8b9e18fbddbb8f7a2#diff-7ae45ad102eab3b6d7e7896acd08c427a9b25b346470d7bc6507b6481575d519)
 
 ## Temp access to the NATS client
 
