@@ -1,4 +1,6 @@
-<b>NATS Server (Core NATS)</b> - central, high-performance messaging broker.
+![https___user-images githubusercontent com_29705703_156038663-61d9c242-de32-41da-9a59-a2452a0ead11](https://github.com/user-attachments/assets/f95e3c6a-b7de-4840-a834-bfa98661d3a3)
+
+<b>NATS</b> - is a high-performance, lightweight, open-source messaging system designed for building modern distributed systems
 
 NATS implements a publish-subscribe message distribution model for one-to-many communication. A publisher sends a message on a subject and any active subscriber listening on that subject receives the message.
 
