@@ -12,6 +12,8 @@ NATS implements a publish-subscribe message distribution model for one-to-many c
 
 <b>Message</b> - unit of communication consisting of a subject, an optional reply-to address, and a byte array payload.
 
+<img width="4722" height="1819" alt="156038672-7f07c060-ac0a-49d2-8697-ed1e168500e0" src="https://github.com/user-attachments/assets/e9a52ee9-363a-4939-bc3b-1f133fc57903" />
+
 <b>Queue groups</b> - are a built-in, lightweight mechanism for load-balancing messages among multiple subscribers, ensuring each message is processed by only one member of a group.
 
 <b>Acknowledgements (Ack)</b> - signals used by consumers to tell JetStream a message was processed (ack()), needs re-delivery (nack()), or failed (term()).
